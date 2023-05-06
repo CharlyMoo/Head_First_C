@@ -32,5 +32,6 @@ int main() {
     printf("Enter favorite food: ");
     fgets(food, sizeof(food),stdin);
     printf("Favorite food is: %s",food);  
+    
     return 0;
 }
