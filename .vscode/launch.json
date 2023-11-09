@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DOCUMENTS/C_programs/Head_First_C",
-      "program": "d:/DOCUMENTS/C_programs/Head_First_C/build/Debug/outDebug",
+      "cwd": "d:/DOCUMENTS/C_programs/Head_First_C/CH2",
+      "program": "d:/DOCUMENTS/C_programs/Head_First_C/CH2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
